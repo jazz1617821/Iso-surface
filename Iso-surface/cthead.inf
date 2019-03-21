@@ -1,0 +1,4 @@
+raw-file="cthead.raw"
+resolution=113x256x256
+sample-type=unsigned short
+ratio=2:1:1

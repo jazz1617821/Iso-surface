@@ -1,0 +1,3 @@
+raw-file="fltr_linearMRbrain.raw"
+resolution=256x256x220
+sample-type=unsigned short

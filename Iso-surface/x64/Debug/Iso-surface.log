@@ -1,0 +1,47 @@
+﻿  main.cpp
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(97): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(98): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(102): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(103): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(112): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(113): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(114): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(119): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(122): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(124): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(199): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(200): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(629): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(630): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(631): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(694): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(712): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(714): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(733): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(734): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(735): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(884): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jazz\visualization\iso-surface\iso-surface\main.cpp(885): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Iso-surface.vcxproj -> E:\Jazz\Visualization\Iso-surface\x64\Debug\Iso-surface.exe

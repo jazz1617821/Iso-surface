@@ -1,0 +1,4 @@
+raw-file="fltr_linearTeddybear.raw"
+resolution=128x128x128
+sample-type=unsigned short
+byte-order=big-endian

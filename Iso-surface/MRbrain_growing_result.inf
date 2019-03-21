@@ -1,0 +1,4 @@
+raw-file="MRbrain_growing_result.raw"
+resolution=150x123x184
+ratio=1.0:1.0:1.0
+sample-type=unsigned char
